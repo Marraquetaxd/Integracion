@@ -1,0 +1,9 @@
+Flask
+Flask-MySQLdb
+Flask-Cors
+marshmallow
+flasgger
+python-dotenv
+transbank-sdk
+
+#pip install -r requirements.txt
